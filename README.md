@@ -18,4 +18,4 @@
 
 # cd manik
 
-#python manik.py
+# python manik.py
