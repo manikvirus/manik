@@ -13,3 +13,5 @@
 # pip install requests
 
 # pip install mechanize
+
+# git clone
