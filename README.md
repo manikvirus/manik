@@ -14,4 +14,8 @@
 
 # pip install mechanize
 
-# git clone
+# git clone https://github.com/manikvirus/manik
+
+# cd manik
+
+#python manik.py
